@@ -1,5 +1,5 @@
 # TheEconomistExporterTool
-A tool for combining The Economist pages through access for SGH students
+A tool for combining The Economist pages through access for SGH students (works only for SGH students)
 
 SGH daje swoim studentom możliwość czytania The Economist po zalogowaniu, jednakże tylko po stronie/rozdziale i w praktyce wymaga to połączenia internetowego i dużo klikania.
 
